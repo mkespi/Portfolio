@@ -7,13 +7,6 @@ A passionate and driven Information Systems student at UT Arlington, committed t
 <font color="#b399d4">✿</font> **Defensive Coding** (building secure Python/PowerShell automations)  
 <font color="#b399d4">✿</font> **Interactive Security** (creating intuitive security dashboards and UI)  
 
-> *"I don't just lock doors — I design better locks."*  
-
-### <font color="#b399d4">✿</font> Current Obsessions  
-<font color="#b399d4">✿</font> **Threat Hunting** – Analyzing logs with Splunk/Wazuh  
-<font color="#b399d4">✿</font> **CTF Challenges** – Sharpening skills on HackTheBox  
-<font color="#b399d4">✿</font> **Zero Trust** – Implementing beyond perimeter defenses  
-<font color="#b399d4">✿</font> **Security UX** – Making security tools user-friendly  
 
 ---
 
