@@ -2,9 +2,7 @@
 
 ## <font color="#b399d4">✿</font> About Me  
 
-🔓 **Security Enthusiast | Code Poet | Digital Guardian**  
-
-I'm pursuing my **Information Technology degree with a Cybersecurity specialization** at University of Texas at Arlington, where I bridge theoretical knowledge with hands-on threat simulations. My passion lives at the intersection of:  
+A passionate and driven Information Systems student at UT Arlington, committed to protecting vulnerable populations and promoting safety in an increasingly connected world. Experienced in working across all levels of technical systems, from hands-on hardware to complex digital infrastructures. Recognized for a strong problem-solving mindset, a collaborative approach, and the ability to thrive in dynamic environments. Dedicated to leveraging technology to create meaningful, real-world impact.
 
 <font color="#b399d4">✿</font> **Hardened Systems** (securing infrastructure from physical hardware to cloud deployments)  
 <font color="#b399d4">✿</font> **Ethical Hacking** (pen-testing with tools like Metasploit & Burp Suite)  
