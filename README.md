@@ -1,5 +1,5 @@
 # Cybersecurity Portfolio
-Professional Statement:
+# Professional Statement:
 A passionate and driven Information Systems student at UT Arlington, committed to protecting vulnerable populations and promoting safety in an increasingly connected world. Experienced in working across all levels of technical systems, from hands-on hardware to complex digital infrastructures. Recognized for a strong problem-solving mindset, a collaborative approach, and the ability to thrive in dynamic environments. Dedicated to leveraging technology to create meaningful, real-world impact.
 
 <font color="#b399d4">✿</font> **Hardened Systems** (securing infrastructure from physical hardware to cloud deployments)  
