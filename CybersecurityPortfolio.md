@@ -47,7 +47,7 @@ Here are some of my university based projects:
 
 ---
 
-# Certification
+## Certification
 
 - **[Google Cybersecurity Certificate (Download PDF)](https://raw.githubusercontent.com/mkespi/Portfolio/main/Certificate.pdf)**  
   Completed the Google Career Certificate in Cybersecurity through Coursera.
