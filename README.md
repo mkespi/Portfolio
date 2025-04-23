@@ -21,28 +21,28 @@ I am a cybersecurity professional with a passion for securing systems, networks,
 
 Here are some of my key projects in PDF format!
 
-- **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.docx)**  
+- **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.pdf)**  
   A summary of my professional background and goals.
 
-- **[Controls and Compliance Checklist](https://github.com/mkespi/Portfolio/raw/main/Controls%20and%20Compliance%20Checklist.pdf)**  
+- **[Controls and Compliance Checklist](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course2.pdf)**  
   A checklist for ensuring system compliance with various security standards.
 
-- **[Incident Report Analysis](https://github.com/mkespi/Portfolio/raw/main/Incident%20Report%20Analysis.pdf)**  
+- **[Incident Report Analysis](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course3.pdf)**  
   Analysis of mock incident reports with actionable insights.
 
-- **[Applying Filters to SQL Queries](https://github.com/mkespi/Portfolio/raw/main/Applying%20Filters%20to%20SQL%20Queries.pdf)**  
+- **[Applying Filters to SQL Queries](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course4.pdf)**  
   A demonstration of using SQL filters to investigate login attempts and employee data.
 
-- **[Vulnerability Assessment Report](https://github.com/mkespi/Portfolio/raw/main/Vulnerability%20Assessment%20Report.pdf)**  
+- **[Vulnerability Assessment Report](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course5.pdf)*  
   A structured report identifying and analyzing system vulnerabilities.
 
-- **[Incident Handler's Journal](https://github.com/mkespi/Portfolio/raw/main/Incident%20Handlers%20Journal.pdf)**  
+- **[Incident Handler's Journal](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course6.pdf)**  
   A reflection and logbook of incident response exercises.
 
-- **[Python File Update Script](https://github.com/mkespi/Portfolio/raw/main/UpdateFileScript.py)**  
-  A Python script that reads, modifies, and updates text files.
+- **[Python File Update Script](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course7.pdf)**  
+  A Python script explained on how it reads, modifies, and updates text files.
 
-- **[Resume (Download)](https://github.com/mkespi/Portfolio/raw/main/resume.pdf)**  
+- **[Resume (Download)](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course8.pdf)**  
   Downloadable copy of my resume in PDF format.
 
 ---
