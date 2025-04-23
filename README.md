@@ -21,7 +21,7 @@ I am a cybersecurity professional with a passion for securing systems, networks,
 
 Here are some of my key projects:
 
-- **[Professional Statement](https://github.com/mkespi/Portfolio/raw/main/Professional%20Statement.pdf)**  
+- **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.docx)**  
   A summary of my professional background and goals.
 
 - **[Controls and Compliance Checklist](https://github.com/mkespi/Portfolio/raw/main/Controls%20and%20Compliance%20Checklist.pdf)**  
