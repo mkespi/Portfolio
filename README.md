@@ -33,7 +33,7 @@ Here are some of my key projects in PDF format!
 - **[Applying Filters to SQL Queries](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course4.pdf)**  
   A demonstration of using SQL filters to investigate login attempts and employee data.
 
-- **[Vulnerability Assessment Report](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course5.pdf)*  
+- **[Vulnerability Assessment Report](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course5.pdf)** 
   A structured report identifying and analyzing system vulnerabilities.
 
 - **[Incident Handler's Journal](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course6.pdf)**  
@@ -49,7 +49,7 @@ Here are some of my key projects in PDF format!
 
 # Certifications
 
-- **[Google Cybersecurity Certificate (Download PDF)](https://github.com/mkespi/Portfolio/raw/main/Google_Cybersecurity_Certificate.pdf)**  
+- **[Google Cybersecurity Certificate (Download PDF)](https://github.com/mkespi/Portfolio/raw/main/Google_Cybersecurity_Certification.pdf)**  
   Completed the Google Career Certificate in Cybersecurity through Coursera.
 
 ---
