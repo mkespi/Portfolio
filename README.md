@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases my skills, projects, certifications, and resume.
+Melissa Espinosa
 
 ---
 
@@ -13,13 +13,13 @@ Welcome to my cybersecurity portfolio! This repository showcases my skills, proj
 ---
 
 ## About Me
-I am a cybersecurity professional with a passion for securing systems, networks, and applications. I specialize in penetration testing, threat analysis, and incident response.
+Future cybersecurity professional dedicated to safeguarding systems, networks, and applications against evolving threats. With a specialization in penetration testing, threat analysis, and incident response, I work to proactively identify and mitigate vulnerabilities before they can be exploited. My passion lies in building resilient defenses and ensuring the security and privacy of the people and organizations that rely on them. Every assessment, every log review, and every response effort is driven by a commitment to protecting others in an increasingly connected world.
 
 ---
 
 ## Projects
 
-Here are some of my key projects in PDF format!
+Here are some of my key projects that I learned through university:
 
 - **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.pdf)**  
   A summary of my professional background and goals.
@@ -47,13 +47,13 @@ Here are some of my key projects in PDF format!
 
 ---
 
-# Certifications
+# Certification
 
-- **[Google Cybersecurity Certificate (Download PDF)](https://github.com/mkespi/Portfolio/raw/main/Google_Cybersecurity_Certification.pdf)**  
+- **[Google Cybersecurity Certificate (Download PDF)](https://raw.githubusercontent.com/mkespi/Portfolio/main/Certification.pdf)**  
   Completed the Google Career Certificate in Cybersecurity through Coursera.
 
 ---
 
 ## Contact
 
-Feel free to reach out at mke4371@mavs.uta.edu
+Feel free to reach out at MK-Espinosa@outlook.com or mke4371@mavs.uta.edu
