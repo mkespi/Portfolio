@@ -19,7 +19,7 @@ Future cybersecurity professional dedicated to safeguarding systems, networks, a
 
 ## Projects
 
-Here are some of my key projects that I learned through university:
+Here are some of my university based projects:
 
 - **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.pdf)**  
   A summary of my professional background and goals.
@@ -56,4 +56,7 @@ Here are some of my key projects that I learned through university:
 
 ## Contact
 
-Feel free to reach out at MK-Espinosa@outlook.com or mke4371@mavs.uta.edu
+Feel free to reach out — I’m open to networking, collaboration, and job opportunities:
+
+- **Email**: [MK-Espinosa@outlook.com](mailto:MK-Espinosa@outlook.com)  
+- **University Email**: [mke4371@mavs.uta.edu](mailto:mke4371@mavs.uta.edu)
