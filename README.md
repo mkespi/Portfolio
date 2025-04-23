@@ -47,16 +47,10 @@ Here are some of my key projects:
 
 ---
 
-## Certifications
+# Certifications
 
-- **Certified Ethical Hacker (CEH)**  
-  Credential ID: [Insert Credential or Link](#)
-
-- **CompTIA Security+**  
-  Credential ID: [Insert Credential or Link](#)
-
-- **Certified Information Systems Security Professional (CISSP)**  
-  Credential ID: [Insert Credential or Link](#)
+- **[Google Cybersecurity Certificate (Download PDF)](https://github.com/mkespi/Portfolio/raw/main/Google_Cybersecurity_Certificate.pdf)**  
+  Completed the Google Career Certificate in Cybersecurity through Coursera.
 
 ---
 
