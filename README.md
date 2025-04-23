@@ -49,7 +49,7 @@ Here are some of my key projects that I learned through university:
 
 # Certification
 
-- **[Google Cybersecurity Certificate (Download PDF)](https://raw.githubusercontent.com/mkespi/Portfolio/main/Certification.pdf)**  
+- **[Google Cybersecurity Certificate (Download PDF)](https://raw.githubusercontent.com/mkespi/Portfolio/main/Certificate.pdf)**  
   Completed the Google Career Certificate in Cybersecurity through Coursera.
 
 ---
