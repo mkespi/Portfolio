@@ -1,27 +1,53 @@
 # Cybersecurity Portfolio
-## Professional Statement:
-A passionate and driven Information Systems student at UT Arlington, committed to protecting vulnerable populations and promoting safety in an increasingly connected world. Experienced in working across all levels of technical systems, from hands-on hardware to complex digital infrastructures. Recognized for a strong problem-solving mindset, a collaborative approach, and the ability to thrive in dynamic environments. Dedicated to leveraging technology to create meaningful, real-world impact.
 
-<font color="#b399d4">✿</font> **Hardened Systems** (securing infrastructure from physical hardware to cloud deployments)  
-<font color="#b399d4">✿</font> **Ethical Hacking** (pen-testing with tools like Metasploit & Burp Suite)  
-<font color="#b399d4">✿</font> **Defensive Coding** (building secure Python/PowerShell automations)  
-<font color="#b399d4">✿</font> **Interactive Security** (creating intuitive security dashboards and UI)  
-
+Welcome to my cybersecurity portfolio! This is a showcase of my skills, projects, certifications, and resume.
 
 ---
 
-## <font color="#b399d4">✿</font> Portfolio Highlights  
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Certifications](#certifications)
+- [Resume](#resume)
+- [Contact](#contact)
 
-[<font color="#b399d4">✿</font> **View My Certifications**](./certs.md)  
-*(CEH, Security+, AWS Security in progress)*  
+---
 
-[<font color="#b399d4">✿</font> **Explore Projects**](./projects.md)  
-<font color="#b399d4">✿</font> Network vulnerability scanner (Python)  
-<font color="#b399d4">✿</font> Phishing awareness web portal (React/Flask)  
-<font color="#b399d4">✿</font> SIEM dashboard for home labs  
+## About Me
+I am a cybersecurity professional with a passion for securing systems, networks, and applications. I specialize in penetration testing, threat analysis, and incident response.
 
-[<font color="#b399d4">✿</font> **My Resume**](./resume.md)  
-*(Internships | Research Papers | Conferences)*  
+---
 
-[<font color="#b399d4">✿</font> **Contact Me**](./contact.md)  
-*Let's discuss security, collaboration, or memes about buffer overflows!*  
+## Projects
+Here are some of my key projects:
+- **[Project 1: Penetration Testing Tool](#)**  
+  A custom-built tool for performing penetration tests on web applications.
+- **[Project 2: Capture The Flag Challenges](#)**  
+  A collection of CTF challenges I solved, showcasing my problem-solving skills.
+- **[Project 3: Network Security Monitoring](#)**  
+  Set up a monitoring system using open-source tools to detect and analyze threats.
+
+Feel free to explore my projects via the links above.
+
+---
+
+## Certifications
+- **Certified Ethical Hacker (CEH)**  
+  Credential ID: [Credential Link or Number](#)
+- **CompTIA Security+**  
+  Credential ID: [Credential Link or Number](#)
+- **Certified Information Systems Security Professional (CISSP)**  
+  Credential ID: [Credential Link or Number](#)
+
+---
+
+## Resume
+You can view or download my resume [here](#).  
+*(Upload your resume to a public repository or cloud storage and link it here.)*
+
+---
+
+## Contact
+Feel free to connect with me:
+- Email: [Your Email](mailto:your-email@example.com)
+
