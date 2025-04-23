@@ -19,7 +19,7 @@ I am a cybersecurity professional with a passion for securing systems, networks,
 
 ## Projects
 
-Here are some of my key projects:
+Here are some of my key projects in PDF format!
 
 - **[Professional Statement](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course1.docx)**  
   A summary of my professional background and goals.
@@ -56,4 +56,4 @@ Here are some of my key projects:
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](#) or email me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out at mke4371@mavs.uta.edu
