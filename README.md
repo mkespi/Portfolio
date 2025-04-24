@@ -30,6 +30,9 @@ Here are some of my university based projects:
 - **[Incident Report Analysis](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course3.pdf)**  
   Analysis of mock incident reports with actionable insights.
 
+- **[File Permissions on Linux](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course4.2.pdf)**  
+  Explored and implemented various file permission configurations in Linux, including chmod, chown, and access control lists (ACLs).
+
 - **[Applying Filters to SQL Queries](https://raw.githubusercontent.com/mkespi/Portfolio/main/Course4.pdf)**  
   A demonstration of using SQL filters to investigate login attempts and employee data.
 
